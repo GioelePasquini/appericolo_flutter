@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569529880104",
+    "project_id": "appericoloflutter",
+    "storage_bucket": "appericoloflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569529880104:android:62a0b3129102865867af1d",
+        "android_client_info": {
+          "package_name": "com.example.appericolo_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569529880104-pltqrablvvtdc2p7o6qgpgi4jt0a2sof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJCqhSJvmnWWbSM6zEV6yUF7m4KVtdOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569529880104-pltqrablvvtdc2p7o6qgpgi4jt0a2sof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
